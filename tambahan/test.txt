@@ -1,1 +1,3 @@
-
+test jika 
+Step 6: Tulis Airflow DAG File (Production-Ready) (Optional)
+langsung di run di colab secara bertahap sesuai step by step
